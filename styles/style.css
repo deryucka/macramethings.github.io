@@ -1,0 +1,34 @@
+html {
+  font-size: 12px; /* px means "pixels": the base font size is now 10 pixels high */
+  font-family: "Quicksand", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+  background-color: #ffd099;
+}
+h2 {
+  font-size: 50px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+body {
+  width: 600px;
+  margin: 5% auto;
+  background-color: #edf7f6;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h2 {
+  margin: 0;
+  padding: 15px 0;
+  color: #fa8c95;
+  text-shadow: 3px 3px 1px rgb(67, 67, 67);
+}
+img {
+  display: block;
+  margin: 5% auto;
+  max-width: 100%;
+}
